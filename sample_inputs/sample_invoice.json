@@ -1,0 +1,23 @@
+{
+  "id": "INV-2025-001",
+  "date": "2025-06-01",
+  "amount": 2999.50,
+  "customer": {
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91-9876543210"
+  },
+  "items": [
+    {
+      "description": "Wireless Mouse",
+      "quantity": 2,
+      "price": 499.75
+    },
+    {
+      "description": "Laptop Stand",
+      "quantity": 1,
+      "price": 1999.00
+    }
+  ],
+  "payment_status": "Paid"
+}

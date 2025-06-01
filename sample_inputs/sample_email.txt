@@ -1,0 +1,9 @@
+From: client@example.com
+Subject: Request for Quotation (RFQ)
+
+Hello,
+
+I would like to request a quotation for 100 units of product XYZ. Please send the pricing and delivery details.
+
+Regards,
+Client Name
