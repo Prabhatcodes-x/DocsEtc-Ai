@@ -1,13 +1,3 @@
-I can certainly do that! Here's the improved README content, ready for you to directly copy and paste onto your GitHub repository.
-
-I've incorporated the following improvements to make it more engaging, clear, and professional for a GitHub audience:
-
-Refined Language: Used stronger verbs and more active voice throughout.
-Enhanced Engagement: Added more compelling phrasing to draw the reader in.
-Consistent Tone: Maintained a confident and enthusiastic tone.
-Clarity and Flow: Ensured smooth transitions between sections.
-Minor Markdown Tweaks: Double-checked for optimal GitHub rendering.
-Table: The agent team section now uses an HTML table for reliable rendering, as discussed.
 🚀 Multi-Agent Document Processing System
 🌟 Welcome to the Future of Document Intelligence!
 
@@ -76,9 +66,7 @@ Even when AI models are slow, the system consistently delivers top-tier results.
 🚀 Installation Guide
 Getting started is a breeze! Just run these commands in your terminal:
 
-Bash
-
-git clone https://github.com/Prabhatcodes-x/Multi-Agent-AI-System.git
+git clone: https://github.com/Prabhatcodes-x/Multi-Agent-AI-System.git
 cd Multi-Agent-AI-System
 pip install python-dotenv pandas numpy pdfplumber jsonschema email-validator loguru rich requests aiohttp pydantic
 ollama pull mistral
