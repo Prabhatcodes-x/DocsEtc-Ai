@@ -1,4 +1,4 @@
-# ProcessMind AI
+# DocFlow AI
 # 🤖 Multi-Agent AI System for Document Processing
 
 > A powerful multi-agent AI system that intelligently processes PDFs, JSON files, and emails using specialized AI agents working together seamlessly.
