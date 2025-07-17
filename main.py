@@ -13,11 +13,17 @@ from agents.json_agent import JsonAgent
 from memory.shared_memory import SharedMemory
 
 # Configure logging to output to both console and file
+
+log_dir = 'output_logs'
+os.makedirs(log_dir, exist_ok=True)
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    # This key parameter fixes the encoding issue for the file logger
+    encoding='utf-8',
     handlers=[
-        logging.FileHandler('output_logs/agent_activity.log'),
+        logging.FileHandler(os.path.join(log_dir, 'agent_activity.log')),
         logging.StreamHandler()
     ]
 )
